@@ -64,18 +64,13 @@ return inquirer.prompt([
             },
             {
                 type: "input",
-                name: "usingRepo",
-                message: "What does the user need to know about using the repo?",
-            },
-            {
-                type: "input",
                 name: "contribution",
                 message: "What does the user need to know about contributing to the repo?",
             }
         ]);
     };
 
-
+return promptUser();
     
 // function to write README file
 function writeToFile(fileName, data) {
