@@ -11,20 +11,22 @@ function generateMarkdown(data) {
   * [Contributing](#Contributing)
   * [Tests](#Tests)
   * [Questions](#Questions)
+  
+
 ##Instalation
-To install necessary dependencies, run the folling command:
-${data.install}
+To install necessary dependencies, run the following command:
+  ${data.install}
 ##Usage
-${data.usage}
+  ${data.usage}
 ##License
-${data.license}
+  ${data.license}
 ##Contributing
-${data.contribution}
+  ${data.contribution}
 ##Tests
 To run tests, run the following command:
-${data.test}
+  ${data.test}
 ##Questions
-If you have any questions please email me at [${data.email}]. If you would like to see more of my work you can check out my GitHub profile at [https://github.com/${data.github}/]
+If you have any questions please email me at <${data.email}>. If you would like to see more of my work you can check out my GitHub profile at [https://github.com/${data.github}/]
 
 `;
 }
