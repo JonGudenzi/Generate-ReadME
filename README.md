@@ -1,17 +1,17 @@
-# Generate-ReadMe
+# Generate-README
 
   ## MIT License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## **Description** 
-  Generates a ReadMe file for an app
+  Generates a README file for an app
 
   ## **Table of Contents**
-  * [Installation](#Installation)
+  * [Installation](#install)
 
   * [Usage](#Usage)
 
-  * [License](#License)
+  * [License](#license)
 
   * [Contributing](#Contributing)
 
@@ -25,7 +25,7 @@ To install necessary dependencies, run the following command:
   npm i
 
 ## **Usage**<br>
-  answer the questions provided and a Readme file for the app will be created based off of the answers given
+  Answer the questions provided. A README file will be created based off of the answers given
 
 ## **Contributing**<br>
   Welcome to contribute
