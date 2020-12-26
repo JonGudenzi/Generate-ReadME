@@ -7,7 +7,8 @@
   Generates a README file for an app
 
   ## **Table of Contents**
-  * [Installation](#install)
+  
+  * [Installation](#Installation)
 
   * [Usage](#Usage)
 
@@ -25,7 +26,7 @@ To install necessary dependencies, run the following command:
   npm i
 
 ## **Usage**<br>
-  Answer the questions provided. A README file will be created based off of the answers given
+  Answer the questions provided.  A README file will be created based on the answers given
 
 ## **Contributing**<br>
   Welcome to contribute
