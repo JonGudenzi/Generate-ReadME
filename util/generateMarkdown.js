@@ -24,7 +24,7 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## **Table of Contents**
-  * [Instalation](#Instalation)
+  * [Installation](#Installation)
 
   * [Usage](#Usage)
 
@@ -37,27 +37,24 @@ function generateMarkdown(data) {
   * [Questions](#Questions)
   
 
-## **Instalation** <br>
+## **Installation** <br>
 To install necessary dependencies, run the following command:
   ${data.install}
 
 ## **Usage**<br>
   ${data.usage}
 
-## **License**<br>
-  ${data.license}
-
 ## **Contributing**<br>
   ${data.contribution}
 
-##**Tests**<br>
+## **Tests**<br>
 To run tests, run the following command:
   ${data.test}
 
 ## **Questions**<br>
 If you have any questions please email me at: ${data.email} 
 
-If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/${data.github})
+If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/${data.github}){:target="_blank}
 
 `;
 }
