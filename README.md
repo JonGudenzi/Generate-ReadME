@@ -1,13 +1,12 @@
-# Generate-ReadMe
+# generate-ReadMe
 
-  ##MIT License
-  
-  ![GitHub License](https://img.shields.io/badge/license-MIT License-yellow.svg)
+  ## MIT License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Description 
-  Generates a readMe file for an app
+  ## **Description** 
+  Generates a ReadMe file for an app
 
-  ##Table of Contents
+  ## **Table of Contents**
   * [Instalation](#Instalation)
 
   * [Usage](#Usage)
@@ -21,25 +20,25 @@
   * [Questions](#Questions)
   
 
-##Instalation <br>
+## **Instalation** <br>
 To install necessary dependencies, run the following command:
   npm i
 
-##Usage<br>
-  Answer the questions provided. A readMe file will be created based on the answers given
+## **Usage**<br>
+  Answer the questions provided and a ReadMe file will be created based on the answers given.
 
-##License<br>
+## **License**<br>
   MIT License
 
-##Contributing<br>
-  welcome to contribute
+## **Contributing**<br>
+  Welcome to contribute.
 
-##Tests<br>
+##**Tests**<br>
 To run tests, run the following command:
   npm test
 
-##Questions<br>
-If you have any questions please email me at:   jongudenzi@gmail.com 
+## **Questions**<br>
+If you have any questions please email me at: jongudenzi@gmail.com 
 
 If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/jongudenzi)
 
