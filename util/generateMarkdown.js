@@ -29,7 +29,7 @@ function generateMarkdown(data) {
 
   * [Usage](#Usage)
 
-  * [License](#license)
+  * [License](#shieldURL)
 
   * [Contributing](#Contributing)
 
@@ -42,20 +42,20 @@ function generateMarkdown(data) {
 To install necessary dependencies, run the following command:
   ${data.install}
 
-## **Usage**<br>
+## **Usage** <br>
   ${data.usage}
 
-## **Contributing**<br>
+## **Contributing** <br>
   ${data.contribution}
 
-## **Tests**<br>
+## **Tests** <br>
 To run tests, run the following command:
   ${data.test}
 
-## **Questions**<br>
+## **Questions** <br>
 If you have any questions please email me at: ${data.email} 
 
-If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/${data.github}){:target="_blank}
+If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/${data.github})
 
 `;
 }

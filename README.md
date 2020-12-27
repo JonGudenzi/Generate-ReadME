@@ -12,7 +12,7 @@
 
   * [Usage](#Usage)
 
-  * [License](#license)
+  * [License](#shieldURL)
 
   * [Contributing](#Contributing)
 
@@ -25,18 +25,18 @@
 To install necessary dependencies, run the following command:
   npm i
 
-## **Usage**<br>
-  Answer the questions provided.  A README file will be created based on the answers given
+## **Usage** <br>
+  Answer the questions provided. A README file will be created based on the answers given
 
-## **Contributing**<br>
+## **Contributing** <br>
   Welcome to contribute
 
-## **Tests**<br>
+## **Tests** <br>
 To run tests, run the following command:
   npm test
 
-## **Questions**<br>
+## **Questions** <br>
 If you have any questions please email me at: jongudenzi@gmail.com 
 
-If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/jongudenzi){:target="_blank}
+If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/jongudenzi)
 
