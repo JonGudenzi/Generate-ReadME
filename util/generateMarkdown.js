@@ -17,13 +17,13 @@ function generateMarkdown(data) {
 
   return `# ${data.title}
 
-  ##${data.license}
+  ## ${data.license}
   ${shieldURL[data.license]}
 
-  ##Description
+  ## Description
   ${data.description}
 
-  ##Table of Contents
+  ## Table of Contents
   
   * [Installation](#install)
 
@@ -38,21 +38,21 @@ function generateMarkdown(data) {
   * [Questions](#Questions)
   
 
-##Installation <br>
+## Installation <br>
 To install necessary dependencies, run the following command:
   ${data.install}
 
-##Usage <br>
+## Usage <br>
   ${data.usage}
 
-##Contributing <br>
+## Contributing <br>
   ${data.contribution}
 
-##Tests <br>
+## Tests <br>
 To run tests, run the following command:
   ${data.test}
 
-##Questions <br>
+## Questions <br>
 If you have any questions please email me at: ${data.email} 
 
 If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/${data.github})
