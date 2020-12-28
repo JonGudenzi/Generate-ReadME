@@ -1,14 +1,12 @@
-# test
+# Generate-README
 
-  ## BSD 2-Clause 'Simplified' License
-  undefined
+  ## MIT License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  test
+  Generates a README file for an app
 
   ## Table of Contents
-
-  * [License](#License)
 
   * [Installation](#Installation)
 
@@ -23,24 +21,24 @@
 ## Installation
 <br>
 To install necessary dependencies, run the following command:
-  test
+  npm i
 
 ## Usage
 <br>
-  test
+  Answer the questions provided. A README file will be created based on the answers given.
 
 ## Contributing
 <br>
-  test
+  Welcome to contribute
 
 ## Tests
 <br>
 To run tests, run the following command:
-  test
+  npm test
 
 ## Questions
 <br>
-If you have any questions please email me at: test 
+If you have any questions please email me at: jongudenzi@gmail.com 
 
-If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/test)
+If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/jongudenzi)
 
