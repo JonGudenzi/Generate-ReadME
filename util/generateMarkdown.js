@@ -29,9 +29,7 @@ function generateMarkdown(data) {
 
   * [Usage](#usage)
 
-  * [License](#shieldURL)
-
-  * [Contributing](#contributing)
+  * [Contributing](#contribution)
 
   * [Tests](#test)
 
