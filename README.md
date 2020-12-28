@@ -1,14 +1,14 @@
 # test
 
-  ## BSD 3-Clause "New" or "Revised" License
-  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  ## Creative Commons Zero v1.0 Universal
+  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
   ## Description
   test
 
   ## Table of Contents
   
-  * [Installation](#install)
+  * [Installation](#Installation)
 
   * [Usage](#usage)
 
@@ -17,23 +17,27 @@
   * [Tests](#test)
 
   * [Questions](#Questions)
-  
 
-## Installation <br>
+## Installation
+<br>
 To install necessary dependencies, run the following command:
   test
 
-## Usage <br>
+## Usage
+<br>
   test
 
-## Contributing <br>
+## Contributing
+<br>
   test
 
-## Tests <br>
+## Tests
+<br>
 To run tests, run the following command:
   test
 
-## Questions <br>
+## Questions
+<br>
 If you have any questions please email me at: test 
 
 If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/test)
