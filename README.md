@@ -1,18 +1,20 @@
 # test
 
-  ## Creative Commons Zero v1.0 Universal
-  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+  ## BSD 2-Clause 'Simplified' License
+  [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
   ## Description
   test
 
   ## Table of Contents
+
+  * [License](#license)
   
   * [Installation](#Installation)
 
   * [Usage](#usage)
 
-  * [Contributing](#contribution)
+  * [Contributing](#contributing)
 
   * [Tests](#test)
 
