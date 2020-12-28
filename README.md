@@ -1,15 +1,15 @@
 # test
 
   ## BSD 2-Clause 'Simplified' License
-  [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+  undefined
 
   ## Description
   test
 
   ## Table of Contents
 
-  * [License](#license)
-  
+  * [License](#License)
+
   * [Installation](#Installation)
 
   * [Usage](#usage)
