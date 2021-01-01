@@ -55,7 +55,10 @@ To run tests, run the following command:
 
 ## Questions
 <br>
-If you have any questions please email me at: ${data.email} 
+
+If you have any questions please email me at  [${data.email}](mailto:${data.email})
+
+<br>
 
 If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/${data.github})
 

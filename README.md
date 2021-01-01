@@ -25,11 +25,11 @@ To install necessary dependencies, run the following command:
 
 ## Usage
 <br>
-  Answer the questions provided. A README file will be created based on the answers given.
+  Answer the questions provided. A README file will be created based on the answers given
 
 ## Contributing
 <br>
-  Welcome to contribute
+  Pull requests are welcome
 
 ## Tests
 <br>
@@ -38,7 +38,10 @@ To run tests, run the following command:
 
 ## Questions
 <br>
-If you have any questions please email me at: jongudenzi@gmail.com 
+
+If you have any questions please email me at  [jongudenzi@gmail.com](mailto:jongudenzi@gmail.com)
+
+<br>
 
 If you would like to see more of my work you can check out my GitHub profile at [GitHub Profile](https://github.com/jongudenzi)
 
