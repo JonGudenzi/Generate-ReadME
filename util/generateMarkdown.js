@@ -31,7 +31,7 @@ function generateMarkdown(data) {
 
   * [Contributing](#contributing)
 
-  * [Tests](#test)
+  * [Tests](#tests)
 
   * [Questions](#Questions)
 
@@ -49,8 +49,8 @@ To install necessary dependencies, run the following command:
   ${data.contribution}
 
 ## Tests
+To run tests, run the following command
 <br>
-To run tests, run the following command:
   ${data.test}
 
 ## Questions

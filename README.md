@@ -4,7 +4,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  Generates a README for an app
+  Generates a README file for an app
 
   ## Table of Contents
 
@@ -14,7 +14,7 @@
 
   * [Contributing](#contributing)
 
-  * [Tests](#test)
+  * [Tests](#tests)
 
   * [Questions](#Questions)
 
@@ -29,11 +29,11 @@ To install necessary dependencies, run the following command:
 
 ## Contributing
 <br>
-  Pull requests are welcome
+  Pull resquests are welcome
 
 ## Tests
+To run tests, run the following command
 <br>
-To run tests, run the following command:
   npm test
 
 ## Questions
