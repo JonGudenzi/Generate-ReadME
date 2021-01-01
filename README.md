@@ -19,21 +19,17 @@
   * [Questions](#Questions)
 
 ## Installation
-<br>
 To install necessary dependencies, run the following command:
   npm i
 
 ## Usage
-<br>
   Answer the questions provided. A README file will be created based on the answers given
 
 ## Contributing
-<br>
-  Pull resquests are welcome
+  Pull requests are welcome
 
 ## Tests
 To run tests, run the following command
-<br>
   npm test
 
 ## Questions
