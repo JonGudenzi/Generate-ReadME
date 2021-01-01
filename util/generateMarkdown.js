@@ -46,12 +46,10 @@ To install necessary dependencies, run the following command:
   ${data.contribution}
 
 ## Tests
-To run tests, run the following command
+To run tests, run the following command:
   ${data.test}
 
 ## Questions
-<br>
-
 If you have any questions please email me at  [${data.email}](mailto:${data.email})
 
 <br>
