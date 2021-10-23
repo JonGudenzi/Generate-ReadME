@@ -1,14 +1,10 @@
-# Employee-Directory
+# Generate-ReadME
 
   ## MIT License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This application will show a list of employees with information for each one including an image, name, phone number, email and age.  The user will be able to search for an employee by typing in a piece of the persons name which will filter out others.  The user will also be able to sort by their name.
-
-  [🌴 CLICK HERE for the deployed app of Employee-Directory](https://jongudenzi.github.io/Employee-Directory/)
-  
-  <br>
+  This is a node project that will create a ReadMe file for future projects I create.  This node project will ask questions and based of the answers will create the ReadMe file.
 
   ## Table of Contents
 
@@ -24,18 +20,13 @@
 
 ## Installation
 To install necessary dependencies, run the following command:
- * npm i
- * npm start
- * npm run build
- * npm run deploy
-
+  npm i
 
 ## Usage
-  Type in someones name or part of their name.  This will filter out and only show names that include the characters typed. Click on the name header to sort the employees by name.
+  Open project. type node index.js in the terminal. Answer the questions at are prompted.
 
 ## Contributing
- * BootCamp Spot
- * BCS Tutor - Manuel Salcido
+  
 
 ## Tests
 To run tests, run the following command:
